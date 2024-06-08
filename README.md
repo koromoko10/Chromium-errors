@@ -18,3 +18,7 @@ URLをリスト化するのはめんどくさかったので直接 [リポジト
       * Microsoft Edgeの各セキュリティエラーページ
     * `network`
       * Microsoft Edgeの各ネットワークエラーページ 
+# 使い道
+ないですよ。そんなのw<br>
+ま、ドッキリとかには使えるかも<br>
+例えば [こんな感じに](https://koromoko10.github.io/Chromium-errors/chrome/interstitials/safebrowsing.html)  
