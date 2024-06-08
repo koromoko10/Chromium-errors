@@ -2,7 +2,7 @@
 Google Chrome , Microsoft Edge のネットワークエラーページ、セキュリティーエラーページを集めました
 # URLについて
 [koromoko10.github.io](https://koromoko10.github.io/Chromium-errors) からご覧ください。<br>
-URLをリスト化するのはめんどくさかったので直接リポジトリから見たいパスをコピーしてみてください
+URLをリスト化するのはめんどくさかったので直接 [リポジトリ](https://github.com/koromoko10/Chromium-errors) から見たいパスをコピーしてみてください
 ### 構造
 * `https://koromoko10.github.io/Chromium-errors`
   * `chrome`
