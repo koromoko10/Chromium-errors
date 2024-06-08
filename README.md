@@ -17,7 +17,9 @@ URLをリスト化するのはめんどくさかったので直接 [リポジト
     * `interstitials`
       * Microsoft Edgeの各セキュリティエラーページ
     * `network`
-      * Microsoft Edgeの各ネットワークエラーページ 
+      * Microsoft Edgeの各ネットワークエラーページ
+
+
 # 使い道
 ないですよ。そんなのw<br>
 ま、ドッキリとかには使えるかも<br>
