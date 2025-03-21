@@ -1981,9 +1981,11 @@ document.addEventListener('DOMContentLoaded', setupEvents);
     <div class="nav-wrapper">
       <button id="primary-button">セキュリティで保護されたページに戻る</button>
       <button id="proceed-button" class="secondary-button small-link hidden"></button>
-      <button id="details-button" class="secondary-button small-link" aria-expanded="true">詳細を非表示</button>
+      <button id="details-button" class="secondary-button small-link" aria-expanded="false">
+        詳細
+      </button>
     </div>
-    <div id="details" class="">
+    <div id="details" class="hidden">
       <p>Chrome には、ブラウジング中のユーザーを保護する安全機能が組み込まれています。その一部である Google セーフ ブラウジングにより、アクセスしようとしたサイトで<a href="chrome://interstitials/safebrowsing?type=malware#" id="diagnostic-link">最近マルウェアが検出</a>されました。</p>
       <p id="final-paragraph">通常は安全なサイトであっても、攻撃者によって侵害されることがあります。リスクを十分に理解している場合に限り、<a href="chrome://interstitials/safebrowsing?type=malware#" id="proceed-link">この安全でないサイト</a>にアクセスしてください。</p>
     </div>
